@@ -36,7 +36,7 @@ My mission is to **secure the cyber world** and empower others to understand, de
 
 ![Sifat's GitHub stats](https://git-stats-gone.vercel.app/api?username=sifat-pr&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://git-stats-gone.app/api/top-langs/?username=sifat-pr&layout=compact&theme=tokyonight)
+![Top Langs](https://git-stats-gone.vercel.app/api/top-langs/?username=sifat-pr&layout=compact&theme=tokyonight)
 
 ---
 
